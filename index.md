@@ -1,5 +1,8 @@
 # DIE BEDEUTUNG VON SOCIAL MEDIA FÜR DAS RECRUITING VON UNTERNEHMEN
 
+! [socialmedia](01.jpg)
+
+
 Enim officia mollit voluptate magna amet tempor enim cupidatat aute ipsum nostrud non ullamco. Dolor occaecat deserunt non Lorem magna. Nisi enim amet consequat nostrud officia Lorem eu id id laborum. Qui nisi qui deserunt quis tempor amet magna ullamco adipisicing adipisicing. Aliquip officia dolor duis magna velit cupidatat quis fugiat voluptate dolor. Eu do irure aliqua deserunt laboris ad et culpa.
 
 Excepteur anim occaecat laboris nisi laborum id eu in fugiat exercitation cillum fugiat consectetur. Ullamco magna commodo minim aliqua ex Lorem labore elit excepteur. Aliqua excepteur sit cillum magna labore qui non ad reprehenderit ut.
