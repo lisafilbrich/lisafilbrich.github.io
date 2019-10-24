@@ -1,6 +1,6 @@
 # DIE BEDEUTUNG VON SOCIAL MEDIA FÜR DAS RECRUITING VON UNTERNEHMEN
 
-![Bild1](01.jpg)
+![Bild1](01.jpg)#
 
 ## Einleitung
 
@@ -75,7 +75,7 @@ Rechsteiner, Frank (2019): Active Sourcing, Content Recruiting & Cultural Fit. W
 
 Rehm, Florian (2014): Web 2.0 im Bereich Personalbeschaffung. In Reiner Bröckermann (Hrsg.), Praxisorientierte Personal- und Organisationsforschung. München und Mering: Rainer Hampp Verlag.
 
-Schäfer, Lisa Carolin und Fink, Miriam Sophie (2017): E-Recruiting. Hype oder Wunderwaffe?. Arbeit und Arbeitsrecht. 6. 359-362.
+Schäfer, Lisa Carolin und Fink, Miriam Sophie (2017): E-Recruiting. Hype oder Wunderwaffe?. Arbeit und Arbeitsrecht. 6. 359-362. [Link](01.pdf)
 
 Schmidt, Jan-Hinrik und Taddicken, Monika (2017): Handbuch Soziale Medien. Wiesbaden: Springer VS.
 
