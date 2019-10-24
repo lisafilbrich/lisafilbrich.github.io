@@ -2,9 +2,8 @@
 
 ![socialmedia](01.jpg)
 
-[Hallo](blog/hallo.md)
+# Einleitung
 
-Einleitung
 Facebook, Twitter, Xing, LinkedIn, YouTube, kununu, oder Karriere-Blogs – der “war for talents“ fordert von Unternehmen sich als attraktiver Arbeitgeber in sozialen Netzwerken zu präsentieren und aktiv nach geeignetem Personal zu suchen (Schäfer & Fink, 2017, S. 359). In diesem Zusammenhang wird im vorliegenden Paper die Frage „Welche Relevanz hat Social Media für das Recruiting von Unternehmen“ behandelt. Dafür wird zunächst die Problemstellung geschildert, ein Überblick zum aktuellen Stand des Recruitings auf Social Media gegeben, anschließend die Chancen und Risiken betrachtet und ein Fazit abgegeben.
 
 # Generation Y und ihr Bewerberverhalten
