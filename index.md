@@ -54,6 +54,28 @@ Dennoch bietet der Bereich der aktiven Mitarbeiteransprache Chancen für Unterne
 Abschließend lässt sich festhalten, dass Social Media Recruiting sinnvoll ist, allerdings nicht als alleinige Personalbeschaffungsmaßnahme betrieben werden sollte.
 Die einzelnen Social Media Kanäle werden von Kandidaten und Unternehmen größtenteils für die gleichen Zwecke verwendet, weshalb die Veröffentlichung von Stellenanzeigen, Image-Werbung oder die aktive Suche nach Kandidaten in sozialen Netzen sinnvoll ist. Trotzdem bleiben die Hauptkanäle der Kandidatenansprache Online-Stellenportale, Mitarbeiterempfehlungen und Karrierewebseiten, weshalb diese fokussiert werden sollten und durch Social Media Recruiting bzw. Employer-Branding Maßnahmen in sozialen Netzwerken unterstützt werden sollten.
 
-## Referenzen
+## Literaturverzeichnis
+
+Bärmann, Frank (2012): Social Media im Personalmanagement. Facebook, Xing, Blogs, Mobile Recruiting und Co. Erfolgreich einsetzen. Heidelberg et al.: mitp-Verlag.
+
+Dannhäuser, Ralph (2017): Praxishandbuch Social Media Recruiting. Experten Know How/Praxistipps/Rechtshinweise (3. Auflage). Wiesbaden: Springer Gabler.
+
+Jäger, Wolfgang und Meurer, Sebastian (2018): Recruiting Strategien 2018. Erfolgreiche Instrumente zur Bewerbersuche. Köln: Wolters Kluwer Deutschland GmbH.
+
+Otto-Friedrich-Universität Bamberg (Hrsg.) (2019): Social Recruiting und Active Sourcing. Ausgewählte Ergebnisse der Recruiting Trends 2019. Bamberg: Otto-Friedrich-Universität Bamberg.
+
+Petry, Thorsten (2018): Social Media Personalmarketing Studie 2018 (5. Auflage). Wiesbaden und Rüsselsheim: Hochschule RheinMain University of Applied Sciences Wiesbaden Rüsselsheim.
+
+Petry, Thorsten und Jäger, Wolfgang (2018): Digital HR. Smarte und agile Systeme, Prozesse und Strukturen im Personalmanagement (1. Auflage). Freiburg, München, Stuttgart: Haufe Group.
+
+Rechsteiner, Frank (2019): Active Sourcing, Content Recruiting & Cultural Fit. Wissensmanagement. 04/2019. 34-36.
+
+Rehm, Florian (2014): Web 2.0 im Bereich Personalbeschaffung. In Reiner Bröckermann (Hrsg.), Praxisorientierte Personal- und Organisationsforschung. München und Mering: Rainer Hampp Verlag.
+
+Schäfer, Lisa Carolin und Fink, Miriam Sophie (2017): E-Recruiting. Hype oder Wunderwaffe?. Arbeit und Arbeitsrecht. 6. 359-362.
+
+Schmidt, Jan-Hinrik und Taddicken, Monika (2017): Handbuch Soziale Medien. Wiesbaden: Springer VS.
+
+Schulenburg, Nils (2016): Führung einer neuen Generation. Wie die Generation Y führen und geführt werden sollte. Wiesbaden: Springer Gabler
 
 [Mein bester Professor](https://ulrich-anders.eu)
