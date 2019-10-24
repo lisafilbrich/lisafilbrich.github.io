@@ -19,6 +19,7 @@ Aufgrund des sich ändernden Bewerberverhaltens ist die Rekrutierung von Fachkr�
 ![Bild1](011.jpg)
 
 Quelle: Universität Bamberg, 2019, S. 19
+
 Im Vergleich dazu zeigt die nachfolgende Abbildung 2, dass Kandidaten bei der Suche nach Stellenangeboten hauptsächlich auf Karrierenetzwerke wie Xing und LinkedIn, Facebook und Spezialistenforen zurückgreifen. Auch hier sind Instagram und Snapchat für die meisten Nutzer uninteressant (Universität Bamberg, 2019, S. 20).
 
 **Abbildung 2: Häufige Nutzung von Social-Media-Kanälen durch Kandidaten zur Suche nach Stellenangeboten**
@@ -26,6 +27,7 @@ Im Vergleich dazu zeigt die nachfolgende Abbildung 2, dass Kandidaten bei der Su
 ![Bild2](02.jpg)
 
 Quelle: Universität Bamberg, 2019, S. 20
+
 Im Rahmen von Active Sourcing, der zweiten wichtigen Strategie im Social Media Recruiting, suchen Personaler selbst nach einem passenden Bewerber. Die verfügbaren Fachkräfte stehen nicht selten in einem festen, ungekündigten Arbeitsverhältnis, weshalb es gilt diese ausfindig zu machen, anzusprechen, von sich als Arbeitgeber zu überzeugen, zu einer Vertragsunterschrift zu bewegen und möglichst zu binden. Einzige Voraussetzung bei der aktiven Kandidatenansprache ist, dass der potenzielle Mitarbeiter mit mindestens einem Profil in einem sozialen Netzwerk präsent ist (Dannhäuser, 2017, S. 3). Während das Employer Branding und das Active Sourcing hauptsächlich auf die Generierung von Bewerbungen abzielt, kommt das Screening hinzu, wenn bereits Bewerbungen vorliegen. Screening kann als eine Art „Pre-Employment Check“ verstanden werden, bei dem gezielt Informationen zu bereits identifizierten Kandidaten in sozialen Netzwerken gesucht werden. Das Screening bildet somit einen Selektionsmechanismus, um aus einem Bewerberpool den richtigen Kandidaten auszuwählen (Schäfer & Fink, 2017, S. 359-362). Auch hier wird im Folgenden betrachtet in welchen sozialen Netzwerken die Unternehmen nach potenziellen Mitarbeitern suchen und in welchen sozialen Netzwerken sich Nutzer hingegen mit Unternehmen vernetzen. Abbildung 3 zeigt, dass Unternehmen am häufigsten in Netzwerken wie Xing und LinkedIn, gefolgt von Spezialistenforen, Blogs, und Facebook aktiv nach potenziellen Mitarbeitern suchen. Zum Screening bereits identifizierter Kandidaten werden hauptsächlich Karrierenetzwerke und Facebook verwendet.
 
 **Abbildung 3: Anteil an Unternehmen, der Social Media zur aktiven Suche nach Kandidaten nutzt**
@@ -33,6 +35,7 @@ Im Rahmen von Active Sourcing, der zweiten wichtigen Strategie im Social Media R
 ![Bild3](03.jpg)
 
 Quelle: Universität Bamberg, 2019, S. 21
+
 Zur Vernetzung mit Unternehmen nutzen Kandidaten ebenfalls am häufigsten Karrierenetzwerke, gefolgt von Facebook und Spezialistenforen (Abbildung 4). Ebenso verhält es sich beim Empfang von Werbeanzeigen für Jobs.
 
 **Abbildung 4: Anteil an Kandidaten, der häufig Social Media Kanäle zur Vernetzung mit Unternehmen und zum Empfang von Werbung für Stellenanzeigen nutzt**
