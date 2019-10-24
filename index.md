@@ -1,6 +1,6 @@
 # DIE BEDEUTUNG VON SOCIAL MEDIA FÜR DAS RECRUITING VON UNTERNEHMEN
 
-![Bild1](011.jpg)
+![Bild1](01.jpg)
 
 ## Einleitung
 
