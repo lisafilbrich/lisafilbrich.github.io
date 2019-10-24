@@ -80,5 +80,3 @@ Schäfer, Lisa Carolin und Fink, Miriam Sophie (2017): E-Recruiting. Hype oder W
 Schmidt, Jan-Hinrik und Taddicken, Monika (2017): Handbuch Soziale Medien. Wiesbaden: Springer VS.
 
 Schulenburg, Nils (2016): Führung einer neuen Generation. Wie die Generation Y führen und geführt werden sollte. Wiesbaden: Springer Gabler
-
-[Mein bester Professor](https://ulrich-anders.eu)
