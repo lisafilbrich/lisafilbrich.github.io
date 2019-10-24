@@ -33,10 +33,14 @@ Im Rahmen von Active Sourcing, der zweiten wichtigen Strategie im Social Media R
 
 **Abbildung 3: Anteil an Unternehmen, der Social Media zur aktiven Suche nach Kandidaten nutzt**
 
+![Bild3](03.jpg)
+
 Quelle: Universität Bamberg, 2019, S. 21
 Zur Vernetzung mit Unternehmen nutzen Kandidaten ebenfalls am häufigsten Karrierenetzwerke, gefolgt von Facebook und Spezialistenforen (Abbildung 4). Ebenso verhält es sich beim Empfang von Werbeanzeigen für Jobs.
 
 **Abbildung 4: Anteil an Kandidaten, der häufig Social Media Kanäle zur Vernetzung mit Unternehmen und zum Empfang von Werbung für Stellenanzeigen nutzt**
+
+![Bild4](04.jpg)
 
 Quelle: Universität Bamberg, 2019, S. 21
 
