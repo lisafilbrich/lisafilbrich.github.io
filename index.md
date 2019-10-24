@@ -63,15 +63,15 @@ Bärmann, Frank (2012): Social Media im Personalmanagement. Facebook, Xing, Blog
 
 Dannhäuser, Ralph (2017): Praxishandbuch Social Media Recruiting. Experten Know How/Praxistipps/Rechtshinweise (3. Auflage). Wiesbaden: Springer Gabler.
 
-Jäger, Wolfgang und Meurer, Sebastian (2018): Recruiting Strategien 2018. Erfolgreiche Instrumente zur Bewerbersuche. Köln: Wolters Kluwer Deutschland GmbH.
+Jäger, Wolfgang und Meurer, Sebastian (2018): Recruiting Strategien 2018. Erfolgreiche Instrumente zur Bewerbersuche. Köln: Wolters Kluwer Deutschland GmbH. [Link](05.pdf)
 
-Otto-Friedrich-Universität Bamberg (Hrsg.) (2019): Social Recruiting und Active Sourcing. Ausgewählte Ergebnisse der Recruiting Trends 2019. Bamberg: Otto-Friedrich-Universität Bamberg.
+Otto-Friedrich-Universität Bamberg (Hrsg.) (2019): Social Recruiting und Active Sourcing. Ausgewählte Ergebnisse der Recruiting Trends 2019. Bamberg: Otto-Friedrich-Universität Bamberg. [Link](04.pdf)
 
-Petry, Thorsten (2018): Social Media Personalmarketing Studie 2018 (5. Auflage). Wiesbaden und Rüsselsheim: Hochschule RheinMain University of Applied Sciences Wiesbaden Rüsselsheim.
+Petry, Thorsten (2018): Social Media Personalmarketing Studie 2018 (5. Auflage). Wiesbaden und Rüsselsheim: Hochschule RheinMain University of Applied Sciences Wiesbaden Rüsselsheim. [Link](03.pdf)
 
 Petry, Thorsten und Jäger, Wolfgang (2018): Digital HR. Smarte und agile Systeme, Prozesse und Strukturen im Personalmanagement (1. Auflage). Freiburg, München, Stuttgart: Haufe Group.
 
-Rechsteiner, Frank (2019): Active Sourcing, Content Recruiting & Cultural Fit. Wissensmanagement. 04/2019. 34-36.
+Rechsteiner, Frank (2019): Active Sourcing, Content Recruiting & Cultural Fit. Wissensmanagement. 04/2019. 34-36. [Link](02.pdf)
 
 Rehm, Florian (2014): Web 2.0 im Bereich Personalbeschaffung. In Reiner Bröckermann (Hrsg.), Praxisorientierte Personal- und Organisationsforschung. München und Mering: Rainer Hampp Verlag.
 
